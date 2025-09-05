@@ -1,0 +1,13 @@
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\bin\Debug\net9.0\Talapker.Common.deps.json
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\bin\Debug\net9.0\Talapker.Common.dll
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\bin\Debug\net9.0\Talapker.Common.pdb
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\Talapker.Common.csproj.AssemblyReference.cache
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\Talapker.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\Talapker.Common.AssemblyInfoInputs.cache
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\Talapker.Common.AssemblyInfo.cs
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\Talapker.Common.csproj.CoreCompileInputs.cache
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\Talapker.Common.sourcelink.json
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\Talapker.Common.dll
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\refint\Talapker.Common.dll
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\Talapker.Common.pdb
+C:\Users\merla\Desktop\Talapker\Talapker.Common\src\obj\Debug\net9.0\ref\Talapker.Common.dll

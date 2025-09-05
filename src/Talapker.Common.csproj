@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <PackageReference Include="Marten" Version="8.10.0" />
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.8" />
     <PackageReference Include="WolverineFx" Version="4.10.1" />
     <PackageReference Include="WolverineFx.FluentValidation" Version="4.10.1" />
