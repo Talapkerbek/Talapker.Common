@@ -46,25 +46,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Marten": {
-              "target": "Package",
-              "version": "[8.10.0, )"
-            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[9.0.8, )"
-            },
-            "WolverineFx": {
-              "target": "Package",
-              "version": "[4.10.1, )"
-            },
-            "WolverineFx.FluentValidation": {
-              "target": "Package",
-              "version": "[4.10.1, )"
-            },
-            "WolverineFx.Kafka": {
-              "target": "Package",
-              "version": "[4.10.1, )"
             }
           },
           "imports": [
@@ -83,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
