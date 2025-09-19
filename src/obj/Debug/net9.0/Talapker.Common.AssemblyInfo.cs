@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Talapker.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c06f07e3fd04f852e3a278f1854a0c985f71efe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15c76c496ddce02726e5b70e24b85f8295edf664")]
 [assembly: System.Reflection.AssemblyProductAttribute("Talapker.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Talapker.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
